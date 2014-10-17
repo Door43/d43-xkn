@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xkn:home|Door43 (xkn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xkn|d43-xkn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xkn/archive/master.zip|d43-xkn.zip]]
+
+**Recent Changes**
+{{changes>ns = xkn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xkn|Ethnologue data]]
+
